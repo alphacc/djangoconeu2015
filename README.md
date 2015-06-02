@@ -1,1 +1,1 @@
-# djangoconeu2015 git-crypt demo
+# Django con Europe 2015 git-crypt demo
